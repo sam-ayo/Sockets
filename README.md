@@ -5,7 +5,6 @@ Simulating Client Server Communication over a network.
 
 ```
 javac BetterServer.java    
-
 ```
   
 
