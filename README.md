@@ -4,15 +4,15 @@ Simulating Client Server Communication over a network.
 ## How to run
 
 ```
-javac BetterServer.java  
-java BetterServer 
+javac Server.java  
+java Server 
 ```
 
 server opens a listening port (port) so it communicates with client
 
 ```
-javac BetterClient.java 
-java BetterClient localhost (port)
+javac Client.java 
+java Client localhost (port)
 ```
   
 
