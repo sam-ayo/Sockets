@@ -8,11 +8,11 @@ javac BetterServer.java
 java BetterServer 
 ```
 
-server opens a listening port <port> so it communicates with client
+server opens a listening port (port) so it communicates with client
 
 ```
 javac BetterClient.java 
-java BetterClient localhost <port>
+java BetterClient localhost (port)
 ```
   
 
