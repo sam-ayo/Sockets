@@ -215,7 +215,7 @@ class PeppaBank{
                 BetterServer.appendOutput("withdrawal: "+inDollars(-transaction));
             }
         }
-        BetterServer.sendOutput();
+
     }
     private void exit(){
         BetterServer.appendOutput("Thank you for using PigNet. Have a nice day!");
