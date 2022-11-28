@@ -14,6 +14,6 @@ server opens a listening port (port) so it communicates with client
 javac Client.java 
 java Client localhost (port)
 ```
-  
+replace (port) with the port number returned by server
 
 
